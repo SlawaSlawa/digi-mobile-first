@@ -7,4 +7,4 @@
 * Mobile-First
 
 ## Ссылка на GitHub Pages
-[digi](https://slawaslawa.github.io/bootstrap-course/)
+[digi](https://slawaslawa.github.io/digi-mobile-first/)
