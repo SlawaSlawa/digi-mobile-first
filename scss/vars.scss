@@ -1,0 +1,25 @@
+$accent: #2B4074;
+$text-color: #4a4a4a;
+$sub-text-color: #797979;
+$desc-text: #9B9B9B;
+$bg-color: #F9F6E5;
+
+%dosis-300{
+    font-family: 'Dosis', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+%roboto-400{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+%roboto-condensed-400{
+    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+%roboto-condensed-700{
+    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
